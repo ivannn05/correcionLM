@@ -25,3 +25,7 @@
        p {
 	   height: 10%;
 	   }
+	   
+	   .imagenes :hover{
+		   transform: scale(2);
+	   }
